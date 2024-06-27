@@ -12,6 +12,9 @@
 Janjancel/Janjancel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+git log --oneline
+
 > [!NOTE]
 > Life is a journey of growth and discovery. Embrace each moment, learn from experiences, and cherish the connections you make along the way.
 
