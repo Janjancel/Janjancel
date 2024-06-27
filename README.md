@@ -11,16 +11,16 @@ Janjancel/Janjancel is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 > [!NOTE]
-> Life is a journey filled with moments of joy, challenges, and continuous growth. It's a tapestry woven with the threads of experiences, relationships, and discoveries. Embrace each moment with an open heart and mind, cherishing the highs and learning from the lows. Remember that every step you take, no matter how small, contributes to the person you are becoming. Strive for balance, seek wisdom, and nurture your passions. In the end, it's the love we give and the memories we create that define the essence of our existence. Live fully, love deeply, and make your journey a story worth sharing.
+> Life is a journey of growth and discovery. Embrace each moment, learn from experiences, and cherish the connections you make along the way.
 
 > [!TIP]
-> Helpful advice for doing things better or more easily.
+> Stay curious and embrace change. Continuous learning and adaptability are key to personal growth and fulfillment.
 
 > [!IMPORTANT]
-> Key information users need to know to achieve their goal.
+> Prioritize your well-being. Take care of your physical, mental, and emotional health. Balance your work and personal life, practice self-care, and seek support when needed. Your well-being is the foundation for everything else in your life, so make it a top priority.
 
 > [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
+> Don't neglect your health for success. Overworking can lead to burnout and long-term issues. Listen to your body and mind, and seek help if needed. True success includes a healthy balance.
 
 > [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
+> Be cautious of overcommitting. Balance your responsibilities to avoid burnout. Prioritize what truly matters and take care of your well-being.
